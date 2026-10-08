@@ -1,4 +1,4 @@
-# 💰 Syntecxhub Expense Tracker
+# 💰 Expense Tracker
 
 An interactive, responsive, modern financial management web application built with **React**, **Vite**, and **JavaScript**. The Expense Tracker empowers users to track income and expenses, monitor category-wise budgets, visualize monthly cashflows, and analyze savings rates in real time.
 
